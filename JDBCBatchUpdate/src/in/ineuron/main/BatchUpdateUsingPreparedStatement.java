@@ -69,7 +69,7 @@ public class BatchUpdateUsingPreparedStatement {
 				e.printStackTrace();
 			}
 			scanner.close();
-		}
+	   }
 
 	}
 
