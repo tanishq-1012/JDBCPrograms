@@ -74,3 +74,33 @@ public class BatchUpdateUsingPreparedStatement {
 	}
 
 }
+
+
+
+
+
+
+
+// Connection object created...
+// Enter the name :: Tanishq
+// Enter the age :: 24
+// Enter the address :: abc
+// Do you want to insert one more record[YES/NO]::  yes
+// Enter the name :: Aniket
+// Enter the age :: 23
+// Enter the address :: def
+// Do you want to insert one more record[YES/NO]::  yes
+// Enter the name :: Aman
+// Enter the age :: 24
+// Enter the address :: ghi
+// Do you want to insert one more record[YES/NO]::  yes
+// Enter the name :: Kritagya
+// Enter the age :: 24
+// Enter the address :: jkl
+// Do you want to insert one more record[YES/NO]::  yes
+// Enter the name :: Manish
+// Enter the age :: 25
+// Enter the address :: mno
+// Do you want to insert one more record[YES/NO]::  no
+// Records inserted Successfully
+
