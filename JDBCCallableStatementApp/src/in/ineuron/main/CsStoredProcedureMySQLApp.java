@@ -86,3 +86,14 @@ public class CsStoredProcedureMySQLApp {
 
 	}
 }
+
+
+
+// Connection object created...
+// Enter the product name :: fossil
+// Enter the product name :: tissot
+// PID	PNAME	PCOST	QTY
+// 1	fossil	15000	2
+// 2	tissot	35000	3
+// Record available and displayed
+
