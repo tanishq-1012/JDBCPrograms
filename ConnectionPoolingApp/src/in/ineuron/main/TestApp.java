@@ -11,7 +11,7 @@ public class TestApp {
 
 	public static void main(String[] args) throws SQLException {
 		
-		//Create an object of a class which implements javax.sql.DataSource0
+		//Create an object of a class which implements javax.sql.DataSource
 		MysqlConnectionPoolDataSource dataSource = new MysqlConnectionPoolDataSource();
 		dataSource.setURL("jdbc:mysql:///Student");
 		dataSource.setUser("root");
